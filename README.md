@@ -1,9 +1,10 @@
 Hello 👋, I'm António.
 
-I'm a Senior Software Engineer who works with the very talented MetaMask team at [Consensys](https://consensys.net/). <br>
-I'm into clean and simple UX/UI, with a clear user focus.
+I'm a Senior Software Engineer and Technical Lead who works with the very talented [MetaMask](https://metamask.io/) team at [Consensys](https://consensys.io/). <br>
 
-Currently working with React & Typescript.
+I'm into building clean and simple UX/UI, with a clear user focus, as well as finding elegant and reliable solutions to complex problems.
+
+Currently working with NodeJS, React & Typescript.
 
 You can reach me 📫 on [X](https://x.com/antoni0regadas).
 
